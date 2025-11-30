@@ -26,6 +26,7 @@ I use a mix of powerful languages to build my projects:
 ### My Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=violense&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=violense&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violense&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
