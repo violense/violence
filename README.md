@@ -1,4 +1,4 @@
-# Hi, I'm [Evil]! 
+# Hi, I'm Evil 
 
 I am a developer who loves building fast and reliable software. I work on backend systems, tools, and applications.
 
