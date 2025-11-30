@@ -1,32 +1,33 @@
-# Hi, I'm Evil 
+# Hi, I'm Evil.
 
-I am a developer who loves building fast and reliable software. I work on backend systems, tools, and applications.
+I build software that breaks things to make them stronger.
+My focus: heavy backend systems, security tools, and fast applications.
 
 ---
 
-### Languages
+### Arsenal
 
-I use a mix of powerful languages to build my projects:
+Tools of the trade.
 
 <p align="left">
   <!-- C -->
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 </p>
 
 ---
 
-### My Stats
+### Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=violense&theme=dark&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=violense&theme=dark" alt="Repos per Language" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=violense&theme=highcontrast&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violense&layout=compact&theme=graywhite&hide_border=true&langs_count=6&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 </p>
