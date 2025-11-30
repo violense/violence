@@ -1,4 +1,4 @@
-# Evil
+# evil
 
 I build software that breaks things to make them stronger. My focus is on heavy backend systems, security tools, and fast applications.
 
