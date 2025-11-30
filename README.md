@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/C%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 
 </div>
